@@ -6,6 +6,9 @@ ___
 
 [Download Release Setup.exe for Clarion Assistant](https://github.com/ClarionLive/ClarionAssistant/releases) - Download the ClarionAssistant-#.#.#-Setup.exe to install on your machine. There are also downloads for the source.
 
+For Features Requests, Comments, Bug Reports, Issues, etc ...
+Please click here to add them to the [Assistant Issues tab](https://github.com/ClarionLive/ClarionAssistant/issues)
+
 Clarion Assistant [GitHub Repository for Clarion Assistant](https://github.com/ClarionLive/ClarionAssistant) with all files. Fork this to your own GitHub.
 
 Watch the always peppy Bruce Johnson install and setup Clarion Assistant in the [ClarionLive YouTube ClarionAI Workshop - 2026.03.27](https://www.youtube.com/watch?v=4ZJ2TdwOzXc)
