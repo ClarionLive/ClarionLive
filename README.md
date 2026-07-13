@@ -15,6 +15,8 @@ ___
 ## MultiTerminal
 
 [Download Release Setup.exe for MultiTerminal](https://github.com/ClarionLive/multiterminal/releases) - Download the MultiTerminal-#.#.#-Setup.exe to install on your machine. There are also downloads for the source.
+
+[MultiTerminal Issues tab](https://github.com/ClarionLive/multiterminal/issues) for Features Requests, Comments, Bug Reports, Issues, etc ...
 ___
 ## ClarionLive on the Web
 
