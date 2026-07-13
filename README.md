@@ -14,7 +14,7 @@ Watch the always peppy Bruce Johnson install and setup Clarion Assistant in the 
 ___
 ## MultiTerminal
 
-[Download Release Setup.exe for MultiTerminal](https://github.com/ClarionLive/multiterminal/releases/tag/v2.0.0)) - Download the MultiTerminal-#.#.#-Setup.exe to install on your machine. There are also downloads for the source.
+[Download Release Setup.exe for MultiTerminal](https://github.com/ClarionLive/multiterminal/releases) - Download the MultiTerminal-#.#.#-Setup.exe to install on your machine. There are also downloads for the source.
 ___
 ## ClarionLive on the Web
 
